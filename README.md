@@ -28,3 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Clement-XVII&show_icons=true&theme=radical" alt="My stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-XVII&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages">
 </p>
+
+<p align="center">
+  <a href="https://github.com/Clement-XVII">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-XVII#version3"/>
+  </a>
+</p>
+<a href="https://github.com/Clement-XVII"><img alt="Orion_XVII Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Clement-XVII&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
