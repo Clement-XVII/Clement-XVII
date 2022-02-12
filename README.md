@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-   A Full Stack Developer & Python Programmer, I am truely openminded for all programation languages, but I love breaking securities !
+   
 </p>
 
 <h2 align="center">✉️ Contact Me</h2>
