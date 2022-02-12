@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-   
+   Student in BTEC Digital Systems option Computer Networks and Communicating Systems
 </p>
 
 <h2 align="center">✉️ Contact Me</h2>
