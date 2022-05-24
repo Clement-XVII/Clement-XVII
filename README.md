@@ -35,6 +35,4 @@
   </a>
 </p>
 <a href="https://github.com/Clement-XVII"><img alt="Orion_XVII Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Clement-XVII&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<a href="http://translate.kylegabriel.com:8080/engage/mycodo/">
-<img src="http://translate.kylegabriel.com:8080/widgets/mycodo/-/svg-badge.svg" alt="État de la traduction" />
-</a>
+
